@@ -187,3 +187,4 @@ def forecast(n, n_days, val):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+server=app.server
